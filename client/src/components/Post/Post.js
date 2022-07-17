@@ -57,7 +57,7 @@ const Post = ({ light, setLight, theLight }) => {
             <div class="papr-container-main">
               <div class="papr-container">
                 <section
-                  style={{ marginTop: "18rem" }}
+                  style={{ marginTop: "17.5rem" }}
                   class="banner__single-post bg-grey-light-three banner-single-2 banner__standard"
                 >
                   <div class="container">
